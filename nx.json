@@ -37,7 +37,10 @@
       "options": {
         "targetName": "test"
       },
-      "exclude": ["apps/investment-tracker-e2e/**/*"]
+      "exclude": [
+        "apps/investment-tracker-e2e/**/*",
+        "apps/investment-tracker-api-e2e/**/*"
+      ]
     }
   ]
 }
