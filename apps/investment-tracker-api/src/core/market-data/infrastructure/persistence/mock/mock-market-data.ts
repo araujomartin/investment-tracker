@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
-import { TickerSlug } from 'src/core/assets/domain/repositories/ticker.model';
-import { MarketData } from 'src/core/market-data/domain/entities/market-data.entity';
-import { MarketDataRepository } from 'src/core/market-data/domain/repositories/market-data.repository';
+import { TickerSlug } from '../../../../assets/domain/repositories/ticker.model';
+import { MarketData } from '../../../domain/entities/market-data.entity';
+import { MarketDataRepository } from '../../../domain/repositories/market-data.repository';
 
 const MOCK_PRICES: Record<
   string,

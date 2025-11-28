@@ -6,7 +6,7 @@
       "request": "launch",
       "name": "Debug investment-tracker with Nx",
       "runtimeExecutable": "yarn",
-      "runtimeArgs": ["nx", "serve", "investment-tracker"],
+      "runtimeArgs": ["nx", "serve", "investment-tracker-api"],
       "env": {
         "NODE_OPTIONS": "--inspect=9229"
       },
@@ -15,7 +15,7 @@
       "skipFiles": ["<node_internals>/**"],
       "sourceMaps": true,
       "outFiles": [
-        "${workspaceFolder}/apps/investment-tracker/dist/**/*.(m|c|)js",
+        "${workspaceFolder}/apps/investment-tracker-api/dist/**/*.(m|c|)js",
         "!**/node_modules/**"
       ]
     },

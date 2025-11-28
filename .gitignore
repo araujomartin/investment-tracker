@@ -39,6 +39,10 @@ testem.log
 .env.local
 .env.*.local
 
+# Google credentials
+**/config/credentials.json
+config/credentials.json
+
 # System Files
 .DS_Store
 Thumbs.db

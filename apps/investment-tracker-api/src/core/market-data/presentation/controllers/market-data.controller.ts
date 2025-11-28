@@ -1,6 +1,6 @@
 import { Controller, Get, Param, Query } from '@nestjs/common';
-import type { TickerSlug } from 'src/core/assets/domain/repositories/ticker.model';
-import type { AssetType } from 'src/core/assets/domain/models/asset-type.model';
+import type { TickerSlug } from '../../../assets/domain/repositories/ticker.model';
+import type { AssetType } from '../../../assets/domain/models/asset-type.model';
 import { MarketData } from '../../domain/entities/market-data.entity';
 import { MarketDataUseCase } from '../../application/use-cases/market-data-use-case.service';
 

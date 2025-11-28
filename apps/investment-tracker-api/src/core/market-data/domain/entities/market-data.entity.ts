@@ -1,4 +1,4 @@
-import { TickerSlug } from 'src/core/assets/domain/repositories/ticker.model';
+import { TickerSlug } from '../../../assets/domain/repositories/ticker.model';
 
 export class MarketData {
   ticker: TickerSlug;

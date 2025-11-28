@@ -2,6 +2,7 @@ import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { AssetsModule } from './core/assets/assets.module';
 import { MarketDataModule } from './core/market-data/market-data.module';
+import { EquityModule } from './modules/equities/equity.module';
 
 @Module({
   imports: [
@@ -12,6 +13,7 @@ import { MarketDataModule } from './core/market-data/market-data.module';
     }),
     AssetsModule,
     MarketDataModule,
+    EquityModule,
   ],
 })
 export class AppModule {}
