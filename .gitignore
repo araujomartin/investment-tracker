@@ -43,6 +43,9 @@ testem.log
 **/config/credentials.json
 config/credentials.json
 
+# Prisma generated files
+**/generated/prisma
+
 # System Files
 .DS_Store
 Thumbs.db
