@@ -3,6 +3,7 @@ import type { AssetType } from '../../../../core/assets/domain/models/asset-type
 export class Transaction {
   id?: string;
   userId: string;
+  assetId: string;
   ticker: string;
   quantity: number;
   pricePerShareArs: number;
@@ -18,6 +19,7 @@ export class Transaction {
   constructor(props: {
     id?: string;
     userId: string;
+    assetId: string;
     ticker: string;
     quantity: number;
     pricePerShareArs: number;

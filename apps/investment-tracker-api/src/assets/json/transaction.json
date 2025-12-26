@@ -3,6 +3,7 @@
         {
             "id": "09fe4dac-6e81-49bf-bcdd-40d8e09100d2",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 2,
             "pricePerShareArs": 15650,
@@ -17,6 +18,7 @@
         {
             "id": "9b16fd47-d461-45e7-9119-13337ff0c208",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 16300,
@@ -31,6 +33,7 @@
         {
             "id": "6d0fa872-344d-442b-b356-06880dec2389",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 15875,
@@ -45,6 +48,7 @@
         {
             "id": "0ed66bb0-3e03-4446-a833-08113f137dfa",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 16600,
@@ -59,6 +63,7 @@
         {
             "id": "6b5216c9-1950-4943-9af7-0f8192dde38b",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 16800,
@@ -73,6 +78,7 @@
         {
             "id": "7fbce134-1409-4cbe-a65a-a04656b04d2d",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 5,
             "pricePerShareArs": 16325,
@@ -87,6 +93,7 @@
         {
             "id": "62adc637-d6e4-4e93-9b9d-ea320bb242b7",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 7810,
@@ -101,6 +108,7 @@
         {
             "id": "36a25bb6-c159-44da-8eff-4965cde37f5f",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 16025,
@@ -115,6 +123,7 @@
         {
             "id": "406af63e-3478-41e7-8686-5f1d83a6431b",
             "userId": "1",
+            "assetId": "34dbf4b3-5edb-4d4a-b2d5-f343252eb8cb",
             "ticker": "EWZ",
             "quantity": 1,
             "pricePerShareArs": 14750,
@@ -129,6 +138,7 @@
         {
             "id": "1a60cb61-9b2d-43dd-9b26-6e5ec6e7f546",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 3,
             "pricePerShareArs": 15875,
@@ -143,6 +153,7 @@
         {
             "id": "7b0950bf-2ab8-41ea-a7c5-f3150c6cf03f",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 6910,
@@ -157,6 +168,7 @@
         {
             "id": "da6d51af-90ca-4f6a-91ac-e8c6df1c89d8",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 2,
             "pricePerShareArs": 16400,
@@ -171,6 +183,7 @@
         {
             "id": "1e737a3d-4a3f-4e47-8934-c8ca1e777eb0",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 2,
             "pricePerShareArs": 16375,
@@ -185,6 +198,7 @@
         {
             "id": "3cda466d-34d5-4240-b571-231015d87db1",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 2,
             "pricePerShareArs": 5990,
@@ -199,6 +213,7 @@
         {
             "id": "13d41ab5-5ed6-42a1-8510-da75f340a40c",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 16925,
@@ -213,6 +228,7 @@
         {
             "id": "a63163de-d7bb-411e-9c0c-aa7724367f13",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 3,
             "pricePerShareArs": 6370,
@@ -227,6 +243,7 @@
         {
             "id": "b7716ba8-d0aa-48c2-b06c-1b154af75191",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 2,
             "pricePerShareArs": 13000,
@@ -241,6 +258,7 @@
         {
             "id": "f0521bd9-e8a5-48f4-be6f-64490f5ae888",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 3,
             "pricePerShareArs": 16400,
@@ -255,6 +273,7 @@
         {
             "id": "7eda168f-8dc0-47f5-b29c-c60f1487f2dc",
             "userId": "1",
+            "assetId": "34dbf4b3-5edb-4d4a-b2d5-f343252eb8cb",
             "ticker": "EWZ",
             "quantity": 1,
             "pricePerShareArs": 16450,
@@ -269,6 +288,7 @@
         {
             "id": "7db98c85-04f2-4226-9549-611f6b452511",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 13575,
@@ -283,6 +303,7 @@
         {
             "id": "163c9c60-768b-4caa-b21b-90d414ffd59c",
             "userId": "1",
+            "assetId": "52fcbe7e-5a13-4626-8320-f290fae25281",
             "ticker": "AMD",
             "quantity": 1,
             "pricePerShareArs": 12050,
@@ -297,6 +318,7 @@
         {
             "id": "a0730217-6be5-44d6-aeef-5a156a868dfa",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 3,
             "pricePerShareArs": 5730,
@@ -311,6 +333,7 @@
         {
             "id": "aeece08f-649c-485c-bf67-34ea10d92857",
             "userId": "1",
+            "assetId": "baed9b86-2e9f-422e-a1cf-bca46d59172b",
             "ticker": "LOMA",
             "quantity": 2,
             "pricePerShareArs": 2600,
@@ -325,6 +348,7 @@
         {
             "id": "8a4e3ebe-907c-4429-b714-cbe302fea88c",
             "userId": "1",
+            "assetId": "dff8e9df-3796-43e4-a5ad-e5f76552bbf2",
             "ticker": "DIS",
             "quantity": 2,
             "pricePerShareArs": 9170,
@@ -339,6 +363,7 @@
         {
             "id": "b45d7f60-120d-4fd0-9242-5dceb0e189c6",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 2,
             "pricePerShareArs": 13650,
@@ -353,6 +378,7 @@
         {
             "id": "c75095d6-928e-4910-abac-442c35fc2264",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 6940,
@@ -367,6 +393,7 @@
         {
             "id": "0e88dfd4-ab80-4026-ac3d-6e8496e6d5bb",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 11950,
@@ -381,6 +408,7 @@
         {
             "id": "07573d3f-1d70-4da7-bc36-2229d5fca754",
             "userId": "1",
+            "assetId": "34dbf4b3-5edb-4d4a-b2d5-f343252eb8cb",
             "ticker": "EWZ",
             "quantity": 2,
             "pricePerShareArs": 15900,
@@ -395,6 +423,7 @@
         {
             "id": "403bbc88-0ecc-45d4-b940-1479999c979f",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 2,
             "pricePerShareArs": 11550,
@@ -409,6 +438,7 @@
         {
             "id": "3ca47c11-88a4-4bbb-9335-f3dbb4a225d4",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6800,
@@ -423,6 +453,7 @@
         {
             "id": "a619d7b5-6826-41a0-8f49-411d40edb4b9",
             "userId": "1",
+            "assetId": "dff8e9df-3796-43e4-a5ad-e5f76552bbf2",
             "ticker": "DIS",
             "quantity": 2,
             "pricePerShareArs": 10050,
@@ -437,6 +468,7 @@
         {
             "id": "29edb1c7-da71-4c23-9194-b4af31df33b4",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 6,
             "pricePerShareArs": 3070,
@@ -451,6 +483,7 @@
         {
             "id": "4100ef3c-d8f6-4cf1-938f-04a70fa33782",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 2,
             "pricePerShareArs": 6470,
@@ -465,6 +498,7 @@
         {
             "id": "ceead20a-7c5a-4b12-abfd-1ea6d5951285",
             "userId": "1",
+            "assetId": "baed9b86-2e9f-422e-a1cf-bca46d59172b",
             "ticker": "LOMA",
             "quantity": 2,
             "pricePerShareArs": 3195,
@@ -479,6 +513,7 @@
         {
             "id": "345a3bc1-0945-4c24-b171-eee0c879db83",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 17125,
@@ -493,6 +528,7 @@
         {
             "id": "11ae6722-d17b-443f-a750-aa2c559518eb",
             "userId": "1",
+            "assetId": "52fcbe7e-5a13-4626-8320-f290fae25281",
             "ticker": "AMD",
             "quantity": 1,
             "pricePerShareArs": 12700,
@@ -507,6 +543,7 @@
         {
             "id": "df0e86ba-f90b-44d9-9687-8107a7ea9e39",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 2,
             "pricePerShareArs": 11525,
@@ -521,6 +558,7 @@
         {
             "id": "98a52cc5-d137-408f-aba2-212a0bdda036",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 4,
             "pricePerShareArs": 3455,
@@ -535,6 +573,7 @@
         {
             "id": "93426045-da66-4947-9ddd-13a1e2bf4866",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 9,
             "pricePerShareArs": 3450,
@@ -549,6 +588,7 @@
         {
             "id": "7fb719b3-3943-4b16-905f-e6017e59f2a7",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6820,
@@ -563,6 +603,7 @@
         {
             "id": "3437d245-c33b-4f58-afcd-429a26ad8ec3",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 13775,
@@ -577,6 +618,7 @@
         {
             "id": "add7ad80-4719-42c3-b04f-286ff598ca0d",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7030,
@@ -591,6 +633,7 @@
         {
             "id": "79158f79-bec9-402e-b6a7-c6a84299ad6a",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 6810,
@@ -605,6 +648,7 @@
         {
             "id": "23d2b439-7f2c-4af1-9c86-804a6ae03a4e",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 2,
             "pricePerShareArs": 18525,
@@ -619,6 +663,7 @@
         {
             "id": "c53d5c61-3ed3-41a4-8ac4-d122f369ae65",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6540,
@@ -633,6 +678,7 @@
         {
             "id": "c6e1f144-ff7d-45d1-b2f9-4e4b172f1778",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 8,
             "pricePerShareArs": 3475,
@@ -647,6 +693,7 @@
         {
             "id": "6e27b92f-f5d6-495f-8f78-75fd9d4cd9d6",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 2,
             "pricePerShareArs": 6240,
@@ -661,6 +708,7 @@
         {
             "id": "ba1650c1-368f-4926-907a-b7252ca91d14",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 5,
             "pricePerShareArs": 18875,
@@ -675,6 +723,7 @@
         {
             "id": "159e6d00-518e-4deb-b251-0bcb45a3fc5a",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 5,
             "pricePerShareArs": 5040,
@@ -689,6 +738,7 @@
         {
             "id": "e6b3d0b9-2dda-4480-b29c-cdd88598ffd2",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 14125,
@@ -703,6 +753,7 @@
         {
             "id": "1cdde96e-7d70-46d2-a17c-86b2c2d6ce3b",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 3,
             "pricePerShareArs": 6570,
@@ -717,6 +768,7 @@
         {
             "id": "c3cab992-d770-4878-a018-0127bae4ec32",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 2,
             "pricePerShareArs": 15050,
@@ -731,6 +783,7 @@
         {
             "id": "0a010b1e-26e4-4e03-8302-d3881a3d5e11",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 17875,
@@ -745,6 +798,7 @@
         {
             "id": "5b88acae-e985-495a-b062-0dcc639fb2d4",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 3,
             "pricePerShareArs": 19025,
@@ -759,6 +813,7 @@
         {
             "id": "992ade4c-1ac3-42c9-a0ea-3432d4707730",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 11900,
@@ -773,6 +828,7 @@
         {
             "id": "bee444eb-9d94-47f2-9225-094ec2b55d42",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 2,
             "pricePerShareArs": 4985,
@@ -787,6 +843,7 @@
         {
             "id": "95831bdc-3e6d-463b-a3d6-44b3546babdf",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 17725,
@@ -801,6 +858,7 @@
         {
             "id": "7e909564-61f8-49ee-9cad-a510c9a986e5",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 2,
             "pricePerShareArs": 15500,
@@ -815,6 +873,7 @@
         {
             "id": "08a84ed0-a465-49a8-a333-492bec3f95eb",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 11800,
@@ -829,6 +888,7 @@
         {
             "id": "d60634ee-5aa5-40a8-b0a4-3789ca0d0cf8",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 3,
             "pricePerShareArs": 6380,
@@ -843,6 +903,7 @@
         {
             "id": "ff9c1165-87bb-4d63-8239-5cc94e1bcd77",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 6080,
@@ -857,6 +918,7 @@
         {
             "id": "667276af-111a-491a-a9ab-590b196380d9",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 2,
             "pricePerShareArs": 15200,
@@ -871,6 +933,7 @@
         {
             "id": "fadfb83c-ab98-46b8-b36a-e94a227d6338",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 3,
             "pricePerShareArs": 18725,
@@ -885,6 +948,7 @@
         {
             "id": "01df6b4c-90c4-4b74-8241-303f6a194cb0",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7040,
@@ -899,6 +963,7 @@
         {
             "id": "7058cd31-dc28-49d1-846f-26b99e10d261",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 14,
             "pricePerShareArs": 3345,
@@ -913,6 +978,7 @@
         {
             "id": "13ca0c47-2f1b-4cbb-b491-7699542b1363",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 14125,
@@ -927,6 +993,7 @@
         {
             "id": "067994ff-42ec-48d4-86bd-1a282f263773",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 19375,
@@ -941,6 +1008,7 @@
         {
             "id": "7b996ba5-6794-40f8-98bb-3e493da57e2a",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 14425,
@@ -955,6 +1023,7 @@
         {
             "id": "6df2be16-e7ae-44d0-9264-e6f59ef670ac",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 1,
             "pricePerShareArs": 3420,
@@ -969,6 +1038,7 @@
         {
             "id": "e6f0b174-7b55-4666-a111-c05b3712351e",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 4,
             "pricePerShareArs": 7120,
@@ -983,6 +1053,7 @@
         {
             "id": "be7b99f1-4f83-4523-a2d8-545b29827672",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6250,
@@ -997,6 +1068,7 @@
         {
             "id": "cea59699-a413-4c9a-ab1b-a81231dc35d9",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7290,
@@ -1011,6 +1083,7 @@
         {
             "id": "5ae26c0a-8217-4661-9dd3-4f12f4270c06",
             "userId": "1",
+            "assetId": "85cb6c8e-ae28-4fac-9669-579281057412",
             "ticker": "PEP",
             "quantity": 1,
             "pricePerShareArs": 8790,
@@ -1025,6 +1098,7 @@
         {
             "id": "56a15ca3-f7dc-418a-a7d0-71fb1ca1afe5",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 2,
             "pricePerShareArs": 3645,
@@ -1039,6 +1113,7 @@
         {
             "id": "64a70805-9641-4c1c-8641-80cf79799ad2",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 13275,
@@ -1053,6 +1128,7 @@
         {
             "id": "ec22f31d-4f2b-4c12-b2dd-f45e170b843a",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 4,
             "pricePerShareArs": 3800,
@@ -1067,6 +1143,7 @@
         {
             "id": "32346387-54c2-461b-bfa5-a70d77520c19",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7890,
@@ -1081,6 +1158,7 @@
         {
             "id": "b7ab663d-6e7b-4e5d-a84b-229e9246f074",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 3,
             "pricePerShareArs": 5430,
@@ -1095,6 +1173,7 @@
         {
             "id": "adee8953-6cf8-4d1b-be81-c69bbc0ddeb1",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 13275,
@@ -1109,6 +1188,7 @@
         {
             "id": "98d3fc25-e3cf-4704-bd64-e8ce731d8636",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 18450,
@@ -1123,6 +1203,7 @@
         {
             "id": "5268c8bc-0e12-48a3-a183-356dddb50150",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 15300,
@@ -1137,6 +1218,7 @@
         {
             "id": "8452cd42-edae-4439-b92f-893b43fb4d75",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 12,
             "pricePerShareArs": 3800,
@@ -1151,6 +1233,7 @@
         {
             "id": "2b1bd8a4-f24c-4cb3-bda5-c2d61324802a",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 3,
             "pricePerShareArs": 7840,
@@ -1165,6 +1248,7 @@
         {
             "id": "5fafb911-1f70-49d5-82fe-8b9eb7aaa43b",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 2,
             "pricePerShareArs": 13500,
@@ -1179,6 +1263,7 @@
         {
             "id": "bb032738-d61f-491e-a545-ed75e5dd5d7b",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 2,
             "pricePerShareArs": 3960,
@@ -1193,6 +1278,7 @@
         {
             "id": "6f7dc6eb-b331-438a-b5dc-4516105b2c6a",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 13275,
@@ -1207,6 +1293,7 @@
         {
             "id": "ed08f2f5-452e-4f47-b215-561477da9894",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 21750,
@@ -1221,6 +1308,7 @@
         {
             "id": "a815a833-cfbb-495c-9229-0fb3b56e0348",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 13675,
@@ -1235,6 +1323,7 @@
         {
             "id": "a840121e-fb0a-4680-aaba-23bdbcb0ed4e",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6130,
@@ -1249,6 +1338,7 @@
         {
             "id": "8b9366db-c992-44b9-94fb-25f004d9c804",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 22025,
@@ -1263,6 +1353,7 @@
         {
             "id": "cfd9a177-c072-4887-ac56-8cc2e04e1578",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 13850,
@@ -1277,6 +1368,7 @@
         {
             "id": "73f42c57-a50a-4924-84ae-dea76531d648",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 2,
             "pricePerShareArs": 5400,
@@ -1291,6 +1383,7 @@
         {
             "id": "de551527-f73a-4b3c-9a6d-bffb6e8be41b",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 3,
             "pricePerShareArs": 24200,
@@ -1305,6 +1398,7 @@
         {
             "id": "b6aa3ad4-a6ad-4517-87a1-ac8605b0b42f",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 13575,
@@ -1319,6 +1413,7 @@
         {
             "id": "fb5795ac-5b88-4cc0-a9d6-e8a5777cd279",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7980,
@@ -1333,6 +1428,7 @@
         {
             "id": "383cc23a-58e3-4670-b5eb-fa682c998b6d",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 1,
             "pricePerShareArs": 5420,
@@ -1347,6 +1443,7 @@
         {
             "id": "0e945251-ed1b-405c-8ec1-414dfaf98f21",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6930,
@@ -1361,6 +1458,7 @@
         {
             "id": "18804a2d-c5e5-40e2-9ecc-597c59019edc",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 3,
             "pricePerShareArs": 14125,
@@ -1375,6 +1473,7 @@
         {
             "id": "47f1a8b0-e998-45e5-beff-6bb36fe53483",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6740,
@@ -1389,6 +1488,7 @@
         {
             "id": "cbf8f531-9edc-4ca7-8f90-218fe8d344f4",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 2,
             "pricePerShareArs": 5200,
@@ -1403,6 +1503,7 @@
         {
             "id": "54935190-0a2e-4aaf-a26d-ff84f488fd74",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 19150,
@@ -1417,6 +1518,7 @@
         {
             "id": "c9998596-3178-45f6-8373-9f8895ab6134",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 14175,
@@ -1431,6 +1533,7 @@
         {
             "id": "73ad32e2-6ac3-4e1d-a79e-20adf8c91150",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 13875,
@@ -1445,6 +1548,7 @@
         {
             "id": "93d25112-c2e6-4362-b2e8-e9895104b1cb",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7970,
@@ -1459,6 +1563,7 @@
         {
             "id": "3acd1e61-9b48-4458-ac98-0e1f53508f3a",
             "userId": "1",
+            "assetId": "85cb6c8e-ae28-4fac-9669-579281057412",
             "ticker": "PEP",
             "quantity": 1,
             "pricePerShareArs": 10475,
@@ -1473,6 +1578,7 @@
         {
             "id": "8528c875-d86b-4018-9c7d-e8537394515e",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 18700,
@@ -1487,6 +1593,7 @@
         {
             "id": "95cf29ee-c2fc-45f9-aefc-ccc7a54deb86",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 14100,
@@ -1501,6 +1608,7 @@
         {
             "id": "61ea9b4b-5103-4ebd-8702-a0bcf97fbb46",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 3,
             "pricePerShareArs": 4440,
@@ -1515,6 +1623,7 @@
         {
             "id": "e391ceb4-9389-49ce-80c6-693011a214f0",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 8,
             "pricePerShareArs": 2080,
@@ -1529,6 +1638,7 @@
         {
             "id": "a486ac4d-a607-4272-ac62-a2bb5f7fcc23",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 7920,
@@ -1543,6 +1653,7 @@
         {
             "id": "c2940ccd-d307-4e14-b3a4-ed6da02831d2",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 23300,
@@ -1557,6 +1668,7 @@
         {
             "id": "ba373f5e-22e5-4c8f-9f03-1e759ea7f11b",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 16250,
@@ -1571,6 +1683,7 @@
         {
             "id": "5107745e-68ac-41fa-a796-67b86da7c97e",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 1,
             "pricePerShareArs": 4590,
@@ -1585,6 +1698,7 @@
         {
             "id": "e038ba3c-2afa-4433-93b3-9ca9ca175134",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 4,
             "pricePerShareArs": 2060,
@@ -1599,6 +1713,7 @@
         {
             "id": "50e455f8-8d52-4e7c-8878-924ac680d5ee",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 1,
             "pricePerShareArs": 5560,
@@ -1613,6 +1728,7 @@
         {
             "id": "915db7fc-868b-49b5-9d42-ffb4b65e5dd3",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 6380,
@@ -1627,6 +1743,7 @@
         {
             "id": "8df49941-1450-4d67-a1e1-802accb55c62",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 5820,
@@ -1641,6 +1758,7 @@
         {
             "id": "97c5b556-17ef-439d-86a1-e4bed3ce9f15",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 14000,
@@ -1655,6 +1773,7 @@
         {
             "id": "1be9cd3f-05c0-45fa-8343-889207875010",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 18450,
@@ -1669,6 +1788,7 @@
         {
             "id": "cef7b42e-cbac-4cb8-9521-12e4d7c0fdc0",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 15600,
@@ -1683,6 +1803,7 @@
         {
             "id": "addb91cf-1b04-4718-a699-41b72f622177",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 16675,
@@ -1697,6 +1818,7 @@
         {
             "id": "0954e989-746f-4d3c-8940-c536e1da10e7",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 4,
             "pricePerShareArs": 5480,
@@ -1711,6 +1833,7 @@
         {
             "id": "3ca1cbc1-d27a-4450-b3bd-93351a4d0342",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 7,
             "pricePerShareArs": 2175,
@@ -1725,6 +1848,7 @@
         {
             "id": "8fa419b3-7ddf-4c87-be41-4824a64c70e6",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 19000,
@@ -1739,6 +1863,7 @@
         {
             "id": "09a4fcdd-74de-48cd-bd6f-ff6ab6f86239",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 2,
             "pricePerShareArs": 4895,
@@ -1753,6 +1878,7 @@
         {
             "id": "ca6098d3-4c29-474c-9565-143d773f90bd",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 5300,
@@ -1767,6 +1893,7 @@
         {
             "id": "0bc4a4e5-de83-4e93-91f3-3fcd636a3086",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 15825,
@@ -1781,6 +1908,7 @@
         {
             "id": "63fa904e-aa7c-484b-beee-06a805edb35a",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 17000,
@@ -1795,6 +1923,7 @@
         {
             "id": "e03d3bea-c1e5-4bbe-b821-234611582503",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 21,
             "pricePerShareArs": 4945,
@@ -1809,6 +1938,7 @@
         {
             "id": "10528afc-e82d-444c-bb3f-1e94dea28f80",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 8,
             "pricePerShareArs": 2150,
@@ -1823,6 +1953,7 @@
         {
             "id": "82f62b23-54b7-40b1-987b-89ec53229c56",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 4,
             "pricePerShareArs": 6540,
@@ -1837,6 +1968,7 @@
         {
             "id": "8ff6ff40-4658-4f2b-bcb2-a35938aaa6ba",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 19000,
@@ -1851,6 +1983,7 @@
         {
             "id": "0529a4cb-182c-4956-be20-e0c4b25ab4c5",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 5240,
@@ -1865,6 +1998,7 @@
         {
             "id": "1c6c2d47-4f47-4ee6-a8b0-fb666365d2d9",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 8600,
@@ -1879,6 +2013,7 @@
         {
             "id": "ca74b380-fcf1-4592-a257-5a0115b4f233",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 19325,
@@ -1893,6 +2028,7 @@
         {
             "id": "0bc89bc6-90bd-4f65-b23f-8c5040d7ac9e",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 5220,
@@ -1907,6 +2043,7 @@
         {
             "id": "0e3b4874-9f79-4a55-97ef-97bd8f602ff0",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 14500,
@@ -1921,6 +2058,7 @@
         {
             "id": "a825400a-0de4-4923-8655-c19a2a16359e",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 5110,
@@ -1935,6 +2073,7 @@
         {
             "id": "d80a5cff-742b-4b99-bd4f-73a34bab32dd",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 1,
             "pricePerShareArs": 4905,
@@ -1949,6 +2088,7 @@
         {
             "id": "afbaedc3-8201-480c-b9cb-66fab82f86aa",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 15,
             "pricePerShareArs": 5300,
@@ -1963,6 +2103,7 @@
         {
             "id": "4590a3f5-3aa6-4b4d-97d5-d540476b9e97",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 4,
             "pricePerShareArs": 5430,
@@ -1977,6 +2118,7 @@
         {
             "id": "f262d2d2-6e6e-4fc5-8386-c7507c0fcdfd",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 14425,
@@ -1991,6 +2133,7 @@
         {
             "id": "2db56bc9-7588-41ed-a9da-047fdc8d6858",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 1,
             "pricePerShareArs": 6520,
@@ -2005,6 +2148,7 @@
         {
             "id": "a88e82e4-4f78-480e-bd65-e79687b35ba1",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 6,
             "pricePerShareArs": 2150,
@@ -2019,6 +2163,7 @@
         {
             "id": "3b5d7eb8-aee1-4cb6-b1b3-b4030e0a7405",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 18700,
@@ -2033,6 +2178,7 @@
         {
             "id": "7f6ff392-7ad3-481e-ae5a-c8a5f466cdb4",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 3,
             "pricePerShareArs": 2145,
@@ -2047,6 +2193,7 @@
         {
             "id": "974f6e9b-a3c1-4528-be19-8eb636804207",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 2,
             "pricePerShareArs": 4737,
@@ -2061,6 +2208,7 @@
         {
             "id": "1ce39440-ffce-472e-9371-8a7bb9e3cf57",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 10,
             "pricePerShareArs": 5865,
@@ -2075,6 +2223,7 @@
         {
             "id": "697fe3ff-4790-4bd9-a571-117566cbd4f0",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 19670,
@@ -2089,6 +2238,7 @@
         {
             "id": "454e0df9-dfd7-4d67-8730-14816cb661ad",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 17740,
@@ -2103,6 +2253,7 @@
         {
             "id": "6c7979cf-f3ea-445b-8f21-f2b023c93153",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 9025,
@@ -2117,6 +2268,7 @@
         {
             "id": "3776ce6f-b821-4cb4-861f-ec41549d1c52",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 4560,
@@ -2131,6 +2283,7 @@
         {
             "id": "9613e723-f7dc-40c1-8cb1-025ee63c36e6",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 9,
             "pricePerShareArs": 5905,
@@ -2145,6 +2298,7 @@
         {
             "id": "e53a0692-1d63-447b-8c14-a55467c1db1d",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 19560,
@@ -2159,6 +2313,7 @@
         {
             "id": "6f005dc9-c413-47d0-bb71-090cd0de2ead",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 6,
             "pricePerShareArs": 2306,
@@ -2173,6 +2328,7 @@
         {
             "id": "f1fc3b8f-52da-46cc-aa81-be6c5aa76f5e",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 16430,
@@ -2187,6 +2343,7 @@
         {
             "id": "c4eaae0e-5499-41c5-84bf-8afe630491de",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 1,
             "pricePerShareArs": 2390,
@@ -2201,6 +2358,7 @@
         {
             "id": "71e5bbf9-bdca-494f-8426-963adaaf4e0c",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 3,
             "pricePerShareArs": 7390,
@@ -2215,6 +2373,7 @@
         {
             "id": "86bb81e1-f4d0-4495-9277-fd0927cc1486",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 19630,
@@ -2229,6 +2388,7 @@
         {
             "id": "7c2a2587-2d71-429d-a8ee-6e3d8a1d9f1d",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 1,
             "pricePerShareArs": 25240,
@@ -2243,6 +2403,7 @@
         {
             "id": "0d781968-9ff8-46fa-bd18-9f328abd0b19",
             "userId": "1",
+            "assetId": "4e2141fe-3a09-43ea-9c82-18b22290ca50",
             "ticker": "GOOGL",
             "quantity": 2,
             "pricePerShareArs": 6350,
@@ -2257,6 +2418,7 @@
         {
             "id": "bb1c0089-c264-48b6-afda-d079c0defb5d",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 19620,
@@ -2271,6 +2433,7 @@
         {
             "id": "0bb641e3-4cdc-46de-982d-3fa96a46b2f3",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 19590,
@@ -2285,6 +2448,7 @@
         {
             "id": "b69fd325-1a77-4f7b-b959-077cbbf7bace",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 1,
             "pricePerShareArs": 2415,
@@ -2299,6 +2463,7 @@
         {
             "id": "da3e658b-f40e-46c4-a39a-5f16c4a7c710",
             "userId": "1",
+            "assetId": "2c1dc8e8-c1de-4f7d-b518-db17910a36f4",
             "ticker": "INTC",
             "quantity": 10,
             "pricePerShareArs": 9360,
@@ -2313,6 +2478,7 @@
         {
             "id": "d4998b3d-e566-4078-84c7-982a21c51a54",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 2,
             "pricePerShareArs": 20150,
@@ -2327,6 +2493,7 @@
         {
             "id": "04d1d15e-21fb-4dd0-a377-f5f9bfcdf525",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 3,
             "pricePerShareArs": 4327,
@@ -2341,6 +2508,7 @@
         {
             "id": "a23c02e6-a1b9-4abf-99ff-7417af047443",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 20520,
@@ -2355,6 +2523,7 @@
         {
             "id": "1741da09-f60e-4496-a35a-c58783be57ae",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 11,
             "pricePerShareArs": 2398,
@@ -2369,6 +2538,7 @@
         {
             "id": "1ba4cc75-dd79-464a-8956-e2b36308b9a5",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 1,
             "pricePerShareArs": 18730,
@@ -2383,6 +2553,7 @@
         {
             "id": "9c84bfd9-0b12-4a14-8748-577528e7a424",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 3,
             "pricePerShareArs": 4532,
@@ -2397,6 +2568,7 @@
         {
             "id": "4a9c971a-1a14-4d8f-8434-1a79d780ee50",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 2,
             "pricePerShareArs": 2363,
@@ -2411,6 +2583,7 @@
         {
             "id": "f3c54011-b2fe-4c22-a6d3-536ee5a9b579",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 2,
             "pricePerShareArs": 17640,
@@ -2425,6 +2598,7 @@
         {
             "id": "69cd000b-053b-43e8-914d-5446f598b344",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 18110,
@@ -2439,6 +2613,7 @@
         {
             "id": "9364d68e-4ce5-4971-800d-03a143c61043",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 18260,
@@ -2453,6 +2628,7 @@
         {
             "id": "abbaaf24-65ec-434c-81fe-0efb8866246e",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 7,
             "pricePerShareArs": 2145,
@@ -2467,6 +2643,7 @@
         {
             "id": "7c449fd4-52bd-4913-a4d4-0d4b62ea3aae",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 16290,
@@ -2481,6 +2658,7 @@
         {
             "id": "aa1e2f85-6b75-4bc3-af36-d76cbad9ac38",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 2,
             "pricePerShareArs": 2145,
@@ -2495,6 +2673,7 @@
         {
             "id": "aecbae8b-8cf8-4634-aec7-fb2ed2fb7d7a",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 4,
             "pricePerShareArs": 4255,
@@ -2509,6 +2688,7 @@
         {
             "id": "c09932cd-c5c6-45ae-a096-0a02da19c628",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 17640,
@@ -2523,6 +2703,7 @@
         {
             "id": "49053e6c-4703-40f2-86f0-8151d1552b00",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 20830,
@@ -2537,6 +2718,7 @@
         {
             "id": "7e13b8ae-50b0-4a82-963b-ec3ce1a5d439",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 19470,
@@ -2551,6 +2733,7 @@
         {
             "id": "7f4da99a-c35d-4e54-80d6-cd184cb0322d",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 15800,
@@ -2565,6 +2748,7 @@
         {
             "id": "59869106-dff7-4914-9a78-294a15d95a81",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 20530,
@@ -2579,6 +2763,7 @@
         {
             "id": "02b5d2e9-1aca-4bcd-9a11-39a93e25d714",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 12,
             "pricePerShareArs": 2378,
@@ -2593,6 +2778,7 @@
         {
             "id": "2208abfe-f11a-46bb-8979-e061b13576c2",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 5,
             "pricePerShareArs": 19400,
@@ -2607,6 +2793,7 @@
         {
             "id": "704db58a-bd2f-4a87-a25b-e57bc6fc0c3f",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 17590,
@@ -2621,6 +2808,7 @@
         {
             "id": "fc1fea6e-76e0-4247-9133-5e76980536f1",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 15350,
@@ -2635,6 +2823,7 @@
         {
             "id": "03858fd8-0bc6-469e-afcc-3cf6f40f671a",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 18770,
@@ -2649,6 +2838,7 @@
         {
             "id": "6dfcdb36-ed43-4be8-9d42-89b605403c89",
             "userId": "1",
+            "assetId": "4b112114-d887-4381-b481-d2767d3bd89f",
             "ticker": "CRM",
             "quantity": 1,
             "pricePerShareArs": 20740,
@@ -2663,6 +2853,7 @@
         {
             "id": "f1022238-e072-489d-b159-e9659f733580",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 10,
             "pricePerShareArs": 2377,
@@ -2677,6 +2868,7 @@
         {
             "id": "49e41a99-0d81-4f5d-8cc3-7f783d0baf41",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 6,
             "pricePerShareArs": 20480,
@@ -2691,6 +2883,7 @@
         {
             "id": "1af90754-0a4b-49d7-98fc-e076d5777c70",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 21,
             "pricePerShareArs": 2383,
@@ -2705,6 +2898,7 @@
         {
             "id": "a54e28e6-8b4e-4f20-8fc6-1cf1efe952dc",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 18000,
@@ -2719,6 +2913,7 @@
         {
             "id": "a5a8d5c4-abd1-4cac-ae55-9c33296f54e6",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 1,
             "pricePerShareArs": 15820,
@@ -2733,6 +2928,7 @@
         {
             "id": "87b2e30a-f531-4f86-9a2a-cad8e6e6ca93",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 17990,
@@ -2747,6 +2943,7 @@
         {
             "id": "94782249-7fec-43bd-8990-0ed3c15b4155",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 1,
             "pricePerShareArs": 5090,
@@ -2761,6 +2958,7 @@
         {
             "id": "9c1f1c25-ab77-430c-bdda-77364764c40d",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 10,
             "pricePerShareArs": 6845,
@@ -2775,6 +2973,7 @@
         {
             "id": "90e5293b-d271-4072-b47f-c19362749f8e",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 14360,
@@ -2789,6 +2988,7 @@
         {
             "id": "44df7d78-8df9-4a26-a6c8-59f4b61c68f4",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 17840,
@@ -2803,6 +3003,7 @@
         {
             "id": "f82a2560-313f-4631-aa43-a7c9dac54850",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 12,
             "pricePerShareArs": 2250,
@@ -2817,6 +3018,7 @@
         {
             "id": "a741b682-9242-42ce-8cc8-4ec0c94d93d4",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 20,
             "pricePerShareArs": 7760,
@@ -2831,6 +3033,7 @@
         {
             "id": "ad88c19c-55cc-4772-b54f-20706be77e88",
             "userId": "1",
+            "assetId": "dff8e9df-3796-43e4-a5ad-e5f76552bbf2",
             "ticker": "DIS",
             "quantity": 3,
             "pricePerShareArs": 13880,
@@ -2845,6 +3048,7 @@
         {
             "id": "0762ad9b-0678-4d41-af17-d2350fe3fbda",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 17660,
@@ -2859,6 +3063,7 @@
         {
             "id": "ec5c80da-f507-4fb8-9801-ca84fefd293a",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 3,
             "pricePerShareArs": 17560,
@@ -2873,6 +3078,7 @@
         {
             "id": "222192e5-332c-459d-abd8-9409404155ec",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 15120,
@@ -2887,6 +3093,7 @@
         {
             "id": "c94a8d0e-6477-411a-8a0f-25726708c38e",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 3,
             "pricePerShareArs": 8408,
@@ -2901,6 +3108,7 @@
         {
             "id": "1cfa63ec-980e-42a3-bef8-817aaa8a5ea2",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 1,
             "pricePerShareArs": 2391,
@@ -2915,6 +3123,7 @@
         {
             "id": "3c92b0ad-201a-45f9-a9e9-a6ccefb1c68c",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 1,
             "pricePerShareArs": 9635,
@@ -2929,6 +3138,7 @@
         {
             "id": "9968b7b9-5525-4027-89ba-c39a36f5c37f",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 18,
             "pricePerShareArs": 7955,
@@ -2943,6 +3153,7 @@
         {
             "id": "d34cff3f-4d27-4c03-b20d-3a4efe8b6a0c",
             "userId": "1",
+            "assetId": "2b5a4032-57f4-4e17-b93e-aa7b4ac04fe3",
             "ticker": "KO",
             "quantity": 1,
             "pricePerShareArs": 20310,
@@ -2957,6 +3168,7 @@
         {
             "id": "592bd64b-b7fe-46eb-958b-767f41d9a3c5",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 4,
             "pricePerShareArs": 8205,
@@ -2971,6 +3183,7 @@
         {
             "id": "4b8781fa-a959-4659-9297-6d7d7d88ff68",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 5,
             "pricePerShareArs": 19980,
@@ -2985,6 +3198,7 @@
         {
             "id": "928c3fcb-a562-480e-83d4-072eba7b4760",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 3,
             "pricePerShareArs": 14870,
@@ -2999,6 +3213,7 @@
         {
             "id": "5bc94a8d-dfa0-4a84-8ace-90988afbd311",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 2,
             "pricePerShareArs": 17610,
@@ -3013,6 +3228,7 @@
         {
             "id": "51938c72-9662-449a-93d4-eccccac69e55",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 21,
             "pricePerShareArs": 2387,
@@ -3027,6 +3243,7 @@
         {
             "id": "670ec833-ada1-4fa9-b64b-f5aa7d552a0e",
             "userId": "1",
+            "assetId": "9f19e620-12ca-4727-bd7d-f5ace944a09f",
             "ticker": "V",
             "quantity": 2,
             "pricePerShareArs": 28280,
@@ -3041,6 +3258,7 @@
         {
             "id": "2b4ac8ca-7237-443e-bccb-09384e833cd6",
             "userId": "1",
+            "assetId": "dff8e9df-3796-43e4-a5ad-e5f76552bbf2",
             "ticker": "DIS",
             "quantity": 1,
             "pricePerShareArs": 13990,
@@ -3055,6 +3273,7 @@
         {
             "id": "e9fee5cd-473a-47b8-9a77-cd6b69c937fb",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 4,
             "pricePerShareArs": 2325,
@@ -3069,6 +3288,7 @@
         {
             "id": "84645933-1084-4e9b-8511-ce504dc34665",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 3,
             "pricePerShareArs": 8085,
@@ -3083,6 +3303,7 @@
         {
             "id": "05ee043e-26b4-4487-8901-106698d0d84c",
             "userId": "1",
+            "assetId": "8b2018f5-1e3a-4638-bccf-6d7e8c40eeb4",
             "ticker": "GGAL",
             "quantity": 8,
             "pricePerShareArs": 7955,
@@ -3097,6 +3318,7 @@
         {
             "id": "eef719a3-523e-450d-81b6-572fe566d952",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 45,
             "pricePerShareArs": 2548,
@@ -3111,6 +3333,7 @@
         {
             "id": "c16a4d5d-6297-42bd-96bc-ef64d5c7b93f",
             "userId": "1",
+            "assetId": "ced27b37-221c-48d4-9df0-848db3ec0abf",
             "ticker": "AAPL",
             "quantity": 4,
             "pricePerShareArs": 20150,
@@ -3125,6 +3348,7 @@
         {
             "id": "76ff56d7-f472-400e-8bc6-eba7d437741e",
             "userId": "1",
+            "assetId": "9f19e620-12ca-4727-bd7d-f5ace944a09f",
             "ticker": "V",
             "quantity": 2,
             "pricePerShareArs": 28150,
@@ -3139,6 +3363,7 @@
         {
             "id": "91c900de-fe64-47f8-953b-db08949971c5",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 2,
             "pricePerShareArs": 8060,
@@ -3153,6 +3378,7 @@
         {
             "id": "ce21e5bb-d8b0-4805-9c2e-4e99bac5b724",
             "userId": "1",
+            "assetId": "edef0723-ed3b-4fcb-b8b9-2fabcc5e9724",
             "ticker": "MCD",
             "quantity": 1,
             "pricePerShareArs": 18590,
@@ -3167,6 +3393,7 @@
         {
             "id": "f190cb7a-206c-44fb-84d0-dffaf625d468",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 1,
             "pricePerShareArs": 17480,
@@ -3181,6 +3408,7 @@
         {
             "id": "2982a6de-2dbf-4019-af4c-f4978f2413d1",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 1,
             "pricePerShareArs": 17320,
@@ -3195,6 +3423,7 @@
         {
             "id": "9ab42dee-418e-40a7-bc7f-3a93277b8b66",
             "userId": "1",
+            "assetId": "91257cce-940e-48b8-913a-bc70a3177f87",
             "ticker": "META",
             "quantity": 3,
             "pricePerShareArs": 40970,
@@ -3209,6 +3438,7 @@
         {
             "id": "21f85db9-97f5-4c29-9310-1aa818cbf574",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 14950,
@@ -3223,6 +3453,7 @@
         {
             "id": "95525c10-ee64-4811-851a-075433ce1f20",
             "userId": "1",
+            "assetId": "42ec99e7-472c-4213-b095-5271b39e6b4c",
             "ticker": "PFE",
             "quantity": 3,
             "pricePerShareArs": 9155,
@@ -3237,6 +3468,7 @@
         {
             "id": "87b1cd94-b95b-4b11-b859-b1b6e6e5ae82",
             "userId": "1",
+            "assetId": "dff8e9df-3796-43e4-a5ad-e5f76552bbf2",
             "ticker": "DIS",
             "quantity": 1,
             "pricePerShareArs": 13990,
@@ -3251,6 +3483,7 @@
         {
             "id": "d17ceea4-9bb4-4414-85a7-b89117ff5854",
             "userId": "1",
+            "assetId": "791e0336-b276-4318-9f03-304efe66c7c6",
             "ticker": "AMZN",
             "quantity": 102,
             "pricePerShareArs": 2542,
@@ -3265,6 +3498,7 @@
         {
             "id": "1fc5da89-587f-41b7-97e5-38df24aa765b",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 5,
             "pricePerShareArs": 7740,
@@ -3279,6 +3513,7 @@
         {
             "id": "dacd74b7-c877-48c9-9c39-8c843e01386b",
             "userId": "1",
+            "assetId": "fb9d3003-099c-4da4-8857-5fb5c070d3a8",
             "ticker": "DE",
             "quantity": 2,
             "pricePerShareArs": 17750,
@@ -3293,6 +3528,7 @@
         {
             "id": "b3d1d020-02f0-47a7-8139-7e37f6d69e7e",
             "userId": "1",
+            "assetId": "530e1d9b-38c6-48c1-a30a-333e3de32aad",
             "ticker": "MSFT",
             "quantity": 2,
             "pricePerShareArs": 25020,
@@ -3307,6 +3543,7 @@
         {
             "id": "9036788d-777f-45a3-97c5-0f49a3079747",
             "userId": "1",
+            "assetId": "91257cce-940e-48b8-913a-bc70a3177f87",
             "ticker": "META",
             "quantity": 1,
             "pricePerShareArs": 39060,
@@ -3321,6 +3558,7 @@
         {
             "id": "ef8ec8e2-be59-4b8b-801c-2d0565dc7852",
             "userId": "1",
+            "assetId": "9f19e620-12ca-4727-bd7d-f5ace944a09f",
             "ticker": "V",
             "quantity": 2,
             "pricePerShareArs": 28130,
@@ -3335,6 +3573,7 @@
         {
             "id": "f543899e-deb4-4349-bb1b-52fe76822bf1",
             "userId": "1",
+            "assetId": "f07cd0ba-348b-4a7f-9749-f2bd1be2844e",
             "ticker": "PG",
             "quantity": 2,
             "pricePerShareArs": 14580,
@@ -3349,6 +3588,7 @@
         {
             "id": "356bc751-85d9-46fa-a37b-aef62fa86a26",
             "userId": "1",
+            "assetId": "2f0ab02a-8d5e-41f4-ae55-45502014a6cc",
             "ticker": "PBR",
             "quantity": 2,
             "pricePerShareArs": 18880,
@@ -3363,6 +3603,7 @@
         {
             "id": "e64984c6-b1a9-46bf-bc63-fd07c39480a0",
             "userId": "1",
+            "assetId": "91257cce-940e-48b8-913a-bc70a3177f87",
             "ticker": "META",
             "quantity": 1,
             "pricePerShareArs": 37760,
@@ -3377,6 +3618,7 @@
         {
             "id": "30eab37a-4fd9-44b0-8531-62bdd975a3be",
             "userId": "1",
+            "assetId": "b6ac0240-02f3-4f5d-be30-470d5d0447b8",
             "ticker": "NKE",
             "quantity": 1,
             "pricePerShareArs": 7940,

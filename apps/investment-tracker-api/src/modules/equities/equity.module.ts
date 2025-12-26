@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { MockTransactionService } from './infrastructure/persistence/mock/mock-transaction.service';
+import { PrismaTransactionService } from './infrastructure/persistence/prisma/prisma-transaction.repository';
 import { TransactionRepository } from './domain/repositories/transaction.repository';
 import { TransactionController } from './presentation/controllers/transaction.controller';
 import { TransactionUseCase } from './application/use-cases/transaction-use-case.service';
@@ -12,7 +12,7 @@ import { MarketDataModule } from '../../core/market-data/market-data.module';
   providers: [
     {
       provide: TransactionRepository,
-      useClass: MockTransactionService,
+      useClass: PrismaTransactionService,
     },
     TransactionUseCase,
     PositionUseCase,

@@ -16,6 +16,7 @@ export class MockTransactionService extends TransactionRepository {
           new Transaction({
             id: data.id,
             userId: data.userId,
+            assetId: data.assetId,
             ticker: data.ticker,
             quantity: data.quantity,
             pricePerShareArs: data.pricePerShareArs,

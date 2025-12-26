@@ -12,6 +12,7 @@ export class TransactionUseCase {
   ) {}
 
   async createTransaction(userId: string, dto: CreateTransactionDto) {
+    
     const asset = await this.assetUseCase.getAssetByTicker(dto.ticker);
 
     if (!asset) {
@@ -20,6 +21,7 @@ export class TransactionUseCase {
 
     const transaction = new Transaction({
       userId,
+      assetId: asset.id,
       ticker: dto.ticker,
       quantity: dto.quantity,
       pricePerShareArs: dto.pricePerShareArs,
