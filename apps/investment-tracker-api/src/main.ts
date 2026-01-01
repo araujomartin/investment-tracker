@@ -12,6 +12,12 @@ async function bootstrap() {
   const globalPrefix = 'api';
   app.setGlobalPrefix(globalPrefix);
 
+  // Enable CORS
+  app.enableCors({
+    origin: ['http://localhost:4200'],
+    credentials: true,
+  });
+
   // Enable global validation
   app.useGlobalPipes(
     new ValidationPipe({
